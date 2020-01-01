@@ -68,4 +68,6 @@ Dividing `total` by `size_y` will get you the size of the rectangle in the x dir
 
 Now you have all the values and they must be stored into `rectangle`.
 
+Worst case scenario is 62 calls.
+
 You can find my solution [here](https://github.com/cnbtwriteups/BambooFoxCTF/blob/master/Land.c)
