@@ -67,3 +67,5 @@ Dividing `total` by `size_y` will get you the size of the rectangle in the x dir
 `x1 + size_x` will result in `x2` and `y1 + size_y` will result in `y2`.
 
 Now you have all the values and they must be stored into `rectangle`.
+
+You can find my solution [here](https://github.com/cnbtwriteups/BambooFoxCTF/blob/master/Land.c)
